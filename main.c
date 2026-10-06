@@ -5,3 +5,4 @@
 // UART feature development 
 // UART feature development 
 // UART TX/RX impementation 
+// UART bug fixed 
